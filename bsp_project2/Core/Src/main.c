@@ -99,7 +99,7 @@ int main(void)
   MX_GPIO_Init();
   MX_I2C1_Init();
   MX_I2S3_Init();
-  //MX_SPI1_Init();
+  MX_SPI1_Init();
   MX_USB_HOST_Init();
   BSP_LED_Init(LED3);
   BSP_LED_Init(LED4);

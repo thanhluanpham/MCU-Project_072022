@@ -33,7 +33,7 @@ Core/Src/mems.o: ../Core/Src/mems.c ../Core/Src/mems.h ../Core/Inc/main.h \
  ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_ll_usb.h \
  ../Core/Src/stm32f4_discovery.h \
  ../Core/Src/stm32f4_discovery_accelerometer.h ../Core/Inc/lis302dl.h \
- c:\users\luan_pham\downloads\stm32cube_fw_f4_v1.27.0\drivers\bsp\components\common\accelero.h \
+ e:\workspace\spi_workspace\bsp_project2\drivers\common\accelero.h \
  ../Core/Inc/lis3dsh.h
 ../Core/Src/mems.h:
 ../Core/Inc/main.h:
@@ -72,5 +72,5 @@ Core/Src/mems.o: ../Core/Src/mems.c ../Core/Src/mems.h ../Core/Inc/main.h \
 ../Core/Src/stm32f4_discovery.h:
 ../Core/Src/stm32f4_discovery_accelerometer.h:
 ../Core/Inc/lis302dl.h:
-c:\users\luan_pham\downloads\stm32cube_fw_f4_v1.27.0\drivers\bsp\components\common\accelero.h:
+e:\workspace\spi_workspace\bsp_project2\drivers\common\accelero.h:
 ../Core/Inc/lis3dsh.h:
