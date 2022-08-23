@@ -1,1 +1,9 @@
+#builded file
 Debug
+*.elf
+*.list
+*.mk
+*.map
+*.d
+*.o
+*.su
