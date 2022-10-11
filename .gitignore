@@ -7,3 +7,4 @@ Debug
 *.d
 *.o
 *.su
+stm32cubeide.project.prefs
